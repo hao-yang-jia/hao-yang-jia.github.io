@@ -26,29 +26,27 @@ My current research interests include integrated high-efficiency  power amplifie
 
 # 📝 Publications 
 
-# <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-# <div class='paper-box-text' markdown="1">
-
 [A 24-to-30-GHz GaN MMIC Doherty Power Amplifier Using Reduced Peaking Intrinsic Output Impedance for Bandwidth Extension](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10848253)
 
 Ruijia Liu; **Haoyang Jia**; Lin Qi; Anding Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVIPhIMAAAAJ&sortby=pubdate&citation_for_view=cVIPhIMAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This presented a millimetre-wave gallium nitride (GaN) monolithic microwave integrated circuit (MMIC) Doherty power amplifier (DPA) for 5G-NR applications. The bandwidth of the DPA is extended by reducing the intrinsic output impedance of the power-stage peaking transistor at the back-off by selecting a proper gate bias voltage.
 
 [An Ultracompact Bidirectional CMOS Gate-Switching Cascode Amplifier for Millimeter-Wave Transceiver Front End](https://ieeexplore.ieee.org/abstract/document/10817129)
 
-**Haoyang Jia**; Ruijia Liu; Qian Wu; Anding Zhu
+**Haoyang Jia**, Lingtao Jiang, Xiu Yin Zhang, Yanjie Wang, Anding Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVIPhIMAAAAJ&sortby=pubdate&citation_for_view=cVIPhIMAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work proposed an ultra-compact single-channel bidirectional amplifier architecture. The bi-directional gate-switching cascode amplifier is
+leveraged in TRX front end to reduce the leakage current in transmitting (TX) and receiving (RX) mode to enhance system performance with an ultra-compact size.
 
   [A 26-GHz GaN MMIC load-modulated balanced amplifier with miniaturized dual-loop coupler](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10591344)
 
 Ruijia Liu; **Haoyang Jia**; Lin Qi; Anding Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVIPhIMAAAAJ&sortby=pubdate&citation_for_view=cVIPhIMAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work proposed the miniaturized dual-loop (MDL) coupler that reduced the chip area while ensuring good isolation without compromising the load modulation of the LMBA. The miniaturized coupler facilitates the implementation of millimeter-wave LMBA in monolithic microwave-integrated circuits (MMICs).
 
 </div>
 </div>
@@ -60,16 +58,22 @@ Ruijia Liu; **Haoyang Jia**; Lin Qi; Anding Zhu
 - [A Broadband Tri-Coil Based Transformer Design for mm-wave Cascode Amplifiers](https://ieeexplore.ieee.org/abstract/document/9687682), H. Jia, G. Feng and Y. Wang, 2021 IEEE Asia Pacific Conference on Circuit and Systems (APCCAS), Penang, Malaysia, 2021, pp. 125-128.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2025.06** **IEEE Microwave Theory and Technology Society (MTT-S) Graduate Fellowship** 
+- **2021.06** **Chinese National scholarship**
+- **2021.05** **First prize, Chinese National Integrated Circuit Innovation and Entrepreneurship Competition (1st Place)**
+- **2021.03** **Second price, The 16th China Postgraduate Electronic Design Competition South China Division**
+- **2018.06** **First Prize, Electronic Design Competition of Guangdong Province, China**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - present*, Ph.D. in Electronic Engineering, University College Dublin, Dublin, Ireland(Advisor: [Prof. Anding Zhu](https://people.ucd.ie/anding.zhu)).
+- *2019.09 - 2022.06*, Master in Integrated Circuit Engineering, South China University of Technology, Guangdong, China(Advisor: [Prof. Yanjie Wang]((https://scholar.google.com/citations?hl=zh-CN&user=v0X-CLoAAAAJ&view_op=list_works&sortby=pubdate))).
+- *2019.09 - 2022.06*, Bachelor in Electronic Science and Technology, South China University of Technology, Guangdong, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Work Experience
+- *2022.06 - 2022.09*, Senior RFIC Engineer, ZEKU, Shanghai, China.
+- *2020.01 - 2022.05*, mm-Wave IC Engineer (Internship), Jelicomm, Shenzhen, China
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Skills
+- Strong CAD design skills in Cadence Virtuoso, HFSS, ADS Momentum.
+- RF&MM-Wave Measurement skills: VNC, PNA Network Analyzer, Spectrum Analyzer, Power Sensor/Meter, Signal Generator, Power Supplies, Waveform Generator
+- Language: Mandarin (native), English (proficient)
