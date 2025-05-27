@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Academic Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+% description              : ""
 repository               : "hao-yang-jia/hao-yang-jia.github.io"
 google_scholar_stats_use_cdn : true
 
