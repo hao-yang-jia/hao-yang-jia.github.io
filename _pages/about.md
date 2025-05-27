@@ -65,8 +65,8 @@ Ruijia Liu; **Haoyang Jia**; Lin Qi; Anding Zhu
 - **2018.06** **First Prize, Electronic Design Competition of Guangdong Province, China**
 
 # 📖 Educations
-- *2022.09 - present*, Ph.D. in Electronic Engineering, University College Dublin, Dublin, Ireland(Advisor: [Prof. Anding Zhu](https://people.ucd.ie/anding.zhu)).
-- *2019.09 - 2022.06*, Master in Integrated Circuit Engineering, South China University of Technology, Guangdong, China(Advisor: [Prof. Yanjie Wang]((https://scholar.google.com/citations?hl=zh-CN&user=v0X-CLoAAAAJ&view_op=list_works&sortby=pubdate))).
+- *2022.09 - present*, Ph.D. in Electronic Engineering, University College Dublin, Dublin, Ireland (Advisor: [Prof. Anding Zhu](https://people.ucd.ie/anding.zhu)).
+- *2019.09 - 2022.06*, Master in Integrated Circuit Engineering, South China University of Technology, Guangdong, China (Advisor: [Prof. Yanjie Wang]((https://scholar.google.com/citations?hl=zh-CN&user=v0X-CLoAAAAJ&view_op=list_works&sortby=pubdate))).
 - *2019.09 - 2022.06*, Bachelor in Electronic Science and Technology, South China University of Technology, Guangdong, China.
 
 # 💻 Work Experience
