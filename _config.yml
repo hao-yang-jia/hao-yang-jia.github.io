@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Academic Homepage"
-description              : # e.g., "Ph.D Candidate"
+description              : "Ph.D Candidate"
 repository               : "hao-yang-jia/hao-yang-jia.github.io"
 google_scholar_stats_use_cdn : true
 
