@@ -45,7 +45,7 @@ leveraged in TRX front end to reduce the leakage current in transmitting (TX) an
 
 [A 26-GHz GaN MMIC load-modulated balanced amplifier with miniaturized dual-loop coupler](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10591344)
 
-Ruijia Liu; **Haoyang Jia**; Lin Qi; Anding Zhu
+**Haoyang Jia**; Ruijia Liu; Qian Wu; Anding Zhu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVIPhIMAAAAJ&sortby=pubdate&citation_for_view=cVIPhIMAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work proposed the miniaturized dual-loop (MDL) coupler that reduced the chip area while ensuring good isolation without compromising the load modulation of the LMBA. The miniaturized coupler facilitates the implementation of millimeter-wave LMBA in monolithic microwave-integrated circuits (MMICs).
